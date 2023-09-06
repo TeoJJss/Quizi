@@ -6,7 +6,7 @@ Bina pangkalan baharu dengan nama "quiz" dan import db.sql
 Projek ini perlulah dilari dalam XAMPP/WAMP.
 
 <em>
-This project is for my SPM Project-Based Learning (PBL) 2021, and is built using few programming languages for web development, including PHP, HTML, JavaScript and CSS. <br> 
+This project is for my SPM Project-Based Learning (PBL) 2021, and is built using several programming languages for web development, including PHP, HTML, JavaScript and CSS. <br> 
 This project is an quiz application which provide a platform for administrator to create quizzes and student can complete the quizzes.<br>
 To try out this project,   
 Create a new database named "quiz" and import db.sql  
